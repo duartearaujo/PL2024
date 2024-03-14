@@ -1,4 +1,4 @@
-# TPC3
+# TPC4
 
 ## Analisador Léxico
 
@@ -13,4 +13,4 @@ Foi utilizada a biblioteca `ply` na resolução deste trabalho, de modo a facili
 
 ## Comando a executar
 
-**cat [nome do ficheiro].txt | python3 tpc3.py**
+**cat [nome do ficheiro].txt | python3 tpc4.py**
