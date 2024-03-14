@@ -1,0 +1,46 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Sandes",
+            "stock": 10,
+            "preco": "1,50\u20ac"
+        },
+        {
+            "id": 2,
+            "nome": "Coca-Cola",
+            "stock": 4,
+            "preco": "90c"
+        },
+        {
+            "id": 3,
+            "nome": "\u00c0gua",
+            "stock": 10,
+            "preco": "40c"
+        },
+        {
+            "id": 4,
+            "nome": "Batatas",
+            "stock": 10,
+            "preco": "1,20\u20ac"
+        },
+        {
+            "id": 5,
+            "nome": "Twix",
+            "stock": 10,
+            "preco": "1\u20ac"
+        }
+    ],
+    "moedas": [
+        {
+            "2\u20ac": 0,
+            "1\u20ac": 0,
+            "50c": 4,
+            "20c": 3,
+            "10c": 0,
+            "5c": 0,
+            "2c": 0,
+            "1c": 0
+        }
+    ]
+}
